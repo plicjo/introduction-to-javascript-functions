@@ -1,5 +1,7 @@
 # Introduction to Functions
 
+Clone this template for an easy way to work through the exercises.
+
 ## Exercise 1
 
 Calculate a bill at a restaurant.
